@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
 
-- <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/bilal_waleed" rel="nofollow">Visit My LinkTree..</a></p>
+- <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/" rel="nofollow">Visit My LinkTree..</a></p>
 
 - How to reach me **muhammadmuaaz907@gmail.com**
 
@@ -38,20 +38,20 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-waleed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=bilal-waleed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bilal-waleed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz907&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz907&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##  🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilal-waleed&limit=5&theme=dark&combine_all_yearly_contributions=true) <br/>
-
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadMuaaz907&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bilal-waleed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MuhammadMuaaz907&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bilal-waleed&icon=4&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MuhammadMuaaz907&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
