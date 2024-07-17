@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi , I'm Muaaz Waleed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Muhammad Muaaz Waleed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<center><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript+|+NodeJS+|+TypeScript+|+HTML5;CSS3+|+TailwindCSS+|+BootStrap;Learning+AI&center=true&width=500&height=50" width = "100%"></center>
+<center><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Currenty+Learning+Cloud+Generative+AI&center=true&width=500&height=50" width = "100%"></center>
 
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
@@ -11,7 +11,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Typescript, JavaScript, Node.js, Tailwind CSS , React.js , AI , Next.js**
+- 🌱 I’m currently learning **Tailwind CSS, JavaScript, Node.js, React.js, Next.js, Cloud Generative AI**
 
 - <p dir="auto">👨‍💻 All of my <strong>Projects</strong> are available at <a href="https://linktr.ee/" rel="nofollow">Visit My LinkTree..</a></p>
 
@@ -37,10 +37,10 @@
 <br/>
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz907&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz907&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ##  🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadMuaaz907&limit=5&theme=dark&combine_all_yearly_contributions=true)
